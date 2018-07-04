@@ -1,5 +1,8 @@
 # DOCUMENT RETRIEVAL ASSIGNMENT
 
+## SEE: 4115_6115_Assignment_1617.pdf file for explanation of the assignment.
+## SEE: Assignment_Report.pdf file (assignment report).
+
 
 
 
