@@ -1,3 +1,8 @@
+# DOCUMENT RETRIEVAL ASSIGNMENT
+
+
+
+
 NOTE: both programs require NLTK package.
 
 
